@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Felipe Winsch — Full Stack .NET Developer · Rust · Python · C/C++" width="100%">
+</p>
+
 <h1 align="center">Felipe Winsch</h1>
 
 <p align="center">
